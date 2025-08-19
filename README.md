@@ -78,7 +78,7 @@ AI Trip Planner is built using React, a popular JavaScript library for building 
 ----------------
 <img width="2878" height="1612" alt="Screenshot 2025-08-10 005639" src="https://github.com/user-attachments/assets/439a16ea-59c3-4e35-9391-0abac2f4fa07" />
 
-[Insert screenshots of the application]
+
 
 📦 **API Reference**
 -------------------
