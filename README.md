@@ -31,7 +31,7 @@ AI Trip Planner is built using React, a popular JavaScript library for building 
 | --- | --- |
 | Frontend | React, Tailwind CSS, Vite |
 | Backend | Node.js, Express.js |
-| Tools | ESLint, Jest, Webpack |
+| Tools | Shadcn, Google Gemini Flash 2.0 API, Google Map API |
 
 📁 **Project Structure**
 ----------------------
