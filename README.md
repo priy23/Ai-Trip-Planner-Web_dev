@@ -2,6 +2,7 @@
 =====================
 
 **Tagline:** Empowering travel planning with AI-driven recommendations
+
 **LIVE_LINK:-** https://ai-trip-planner-web-pi.vercel.app/
 
 📖 **Description**
